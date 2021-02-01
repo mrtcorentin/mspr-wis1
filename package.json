@@ -1,0 +1,12 @@
+{
+  "name": "mspr-wis1",
+  "devDependencies": {
+    "laravel-mix": "^6.0.9",
+    "resolve-url-loader": "^3.1.0",
+    "sass": "^1.32.2",
+    "sass-loader": "^8.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
+}
