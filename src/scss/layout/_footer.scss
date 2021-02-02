@@ -23,8 +23,14 @@
           color: $primary;
           padding-left: 10px;
           transition: .2s ease padding-left;
+
         }
       }
+    img {
+      height: 4rem;
+      width: auto;
+
+    }
     }
   }
 }
