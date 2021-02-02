@@ -1,15 +1,27 @@
 #footer {
   padding: 50px 0;
-  background-color: $secondary;
-  color: #fff;
+  background-color: #FFFBFA;
+  color: #000;
 
   .footer-title {
-    font-size: 1.3rem;
+    font-size: 1.7rem;
+  }
+
+  .footer-list {
+   margin-bottom: 12px;
+    justify-self: center;
+  }
+
+  span {
+    padding-bottom: 15px;
+    display: block;
+    text-align: center;
   }
 
   ul {
     margin: 0;
     padding: 0;
+    text-align: center;
 
     li {
       list-style-type: none;
@@ -20,7 +32,7 @@
         transition: .2s ease padding-left;
 
         &:hover {
-          color: $primary;
+          color: #00BD9D;
           padding-left: 10px;
           transition: .2s ease padding-left;
 
@@ -29,7 +41,7 @@
     img {
       height: 4rem;
       width: auto;
-
+      padding: 6px;
     }
     }
   }

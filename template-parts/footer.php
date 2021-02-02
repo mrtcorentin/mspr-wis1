@@ -5,39 +5,39 @@
     <div class="container">
         <div class="row align-items-start">
             <div class="col">
-                <span class="footer-title">Plan du site</span>
+                <span class="footer-title">Mentions Légales</span>
 
                 <ul>
-                    <li>
-                        <a href="">Accueil</a>
+                    <li class="footer-list">
+                        <a href="">Conditions générales d'utilisation</a>
                     </li>
-                    <li>
-                        <a href="">Sécurité</a>
+                    <li class="footer-list">
+                        <a href="">Politique de confidentialité</a>
                     </li>
-                    <li>
-                        <a href="">Partenaires</a>
-                    </li>
-                    <li>
-                        <a href="">Blog</a>
-                    </li>
-                    <li>
-                        <a href="">Mon Profil</a>
+                    <li class="footer-list">
+                        <a href="">Utilisation de cookies</a>
                     </li>
                 </ul>
             </div>
 
             <div class="col">
-                <span class="footer-title">Mentions Légales</span>
+                <span class="footer-title">Plan du site</span>
 
                 <ul>
-                    <li>
-                        <a href="">Conditions générales d'utilisation</a>
+                    <li class="footer-list">
+                        <a href="">Accueil</a>
                     </li>
-                    <li>
-                        <a href="">Politique de confidentialité</a>
+                    <li class="footer-list">
+                        <a href="">Sécurité</a>
                     </li>
-                    <li>
-                        <a href="">Utilisation de cookies</a>
+                    <li class="footer-list">
+                        <a href="">Partenaires</a>
+                    </li>
+                    <li class="footer-list">
+                        <a href="">Blog</a>
+                    </li>
+                    <li class="footer-list">
+                        <a href="">Mon Profil</a>
                     </li>
                 </ul>
             </div>

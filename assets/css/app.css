@@ -10731,15 +10731,25 @@ textarea.form-control-lg {
 }
 #footer {
   padding: 50px 0;
-  background-color: #8BD7D2;
-  color: #fff;
+  background-color: #FFFBFA;
+  color: #000;
 }
 #footer .footer-title {
-  font-size: 1.3rem;
+  font-size: 1.7rem;
+}
+#footer .footer-list {
+  margin-bottom: 12px;
+  justify-self: center;
+}
+#footer span {
+  padding-bottom: 15px;
+  display: block;
+  text-align: center;
 }
 #footer ul {
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 #footer ul li {
   list-style-type: none;
@@ -10750,13 +10760,14 @@ textarea.form-control-lg {
   transition: 0.2s ease padding-left;
 }
 #footer ul li a:hover {
-  color: #49C6E5;
+  color: #00BD9D;
   padding-left: 10px;
   transition: 0.2s ease padding-left;
 }
 #footer ul li img {
   height: 4rem;
   width: auto;
+  padding: 6px;
 }
 
 #home-images {
