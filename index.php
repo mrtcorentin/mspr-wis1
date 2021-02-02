@@ -11,8 +11,7 @@ require_once 'template-parts/header.php'; ?>
         <section id="home-presentation">
             <div class="container">
                 <div class="first">
-                    <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat,
-                        soluta?</h1>
+                    <h1 class="text-xxl-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
 
                     <img
                             src="assets/svg/delivery.svg"
