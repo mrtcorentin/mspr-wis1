@@ -1,0 +1,13 @@
+#home-images {
+  border: 2px solid red;
+  padding: 100px 0;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid blue;
+    max-width: 200px;
+    margin: auto;
+  }
+}

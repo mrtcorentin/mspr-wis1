@@ -11,7 +11,8 @@ require_once 'template-parts/header.php'; ?>
         <section id="home-presentation">
             <div class="container">
                 <div class="first">
-                    <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat, soluta?</h1>
+                    <h1 style="color: #49C6E5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat,
+                        soluta?</h1>
 
                     <img
                             src="assets/svg/delivery.svg"
@@ -24,36 +25,41 @@ require_once 'template-parts/header.php'; ?>
                     <button type="button" class="btn btn-secondary">Secondary</button>
                 </div>
                 <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur.</h2>
-                <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                     consequat.
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
                     pariatur.
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-                    est laborum.</h3>
-
-                <img
-                        src="assets/svg/shopping2.svg"
-                        alt="un triangle aux trois côtés égaux"
-                        height="250rem"
-                        width="250rem"/>
-
-                <img
-                        src="assets/svg/mail.svg"
-                        alt="un triangle aux trois côtés égaux"
-                        height="250rem"
-                        width="250rem"/>
-
-                <img
-                        src="assets/svg/security.svg"
-                        alt="un triangle aux trois côtés égaux"
-                        height="250rem"
-                        width="250rem"/>
+                    est laborum.</p>
             </div>
-
-
         </section>
+
+        <section id="home-images">
+            <div class="container">
+
+                <div class="row g-4 justify-content-center">
+                    <div class="col-sm-6 col-md-4 align-self-center">
+                        <img src="assets/svg/shopping2.svg" alt="un triangle aux trois côtés égaux">
+                    </div>
+                    <div class="col-sm-6 col-md-4 align-self-center">
+                        <img src="assets/svg/mail.svg" alt="un triangle aux trois côtés égaux">
+                    </div>
+                    <div class="col-sm-6 col-md-4 align-self-center">
+                        <img src="assets/svg/security.svg" alt="un triangle aux trois côtés égaux">
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!--
+        <div class="button-2">
+            <button type="button" class="btn btn-primary">Primary</button>
+            <button type="button" class="btn btn-black">Secondary</button>
+        </div>
+        -->
     </main>
 
 <?php require_once 'template-parts/footer.php'; ?>
