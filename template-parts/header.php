@@ -1,10 +1,10 @@
 <?php require_once 'template-parts/head.php'; ?>
 
-<header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+<header id="header">
+    <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
 
-            <a class="navbar-brand" href="#">Navbar</a>
+            <img src="assets/images/logo.png" alt="#" width="40" height="55">
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar"
                     aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -13,17 +13,20 @@
 
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
+                    <li class="nav-item me-4">
                         <a class="nav-link" href="#">Accueil</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Lien</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link" href="#">Notre concept</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Lien</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link" href="#">Sécurité</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Lien</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link" href="#">Partenaires</a>
+                    </li>
+                    <li class="nav-item me-4">
+                        <a class="nav-link" href="#">S'inscrire</a>
                     </li>
                 </ul>
             </div>
