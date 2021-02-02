@@ -10754,6 +10754,10 @@ textarea.form-control-lg {
   padding-left: 10px;
   transition: 0.2s ease padding-left;
 }
+#footer ul li img {
+  height: 4rem;
+  width: auto;
+}
 
 #home-images {
   border: 2px solid red;
