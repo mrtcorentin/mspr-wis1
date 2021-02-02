@@ -12,7 +12,6 @@ require_once 'template-parts/header.php'; ?>
 
     <section id="jumbotron-1">
 
-
         <div class="container">
 
             <h1 class="h1 text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>

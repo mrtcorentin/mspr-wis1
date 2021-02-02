@@ -40,34 +40,63 @@ require_once 'template-parts/header.php'; ?>
                                     <button class="btn btn-primary" type="button">Button</button>
                                 </div>
                 -->
-
-                <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur.</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua.
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                    consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                    pariatur.
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-                    est laborum.</p>
+                <div class="text-xxl-center">
+                    <h2 class="text-center">Lorem ipsum dolor sit amet.</h2>
+                    <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                        tempor incididunt ut labore
+                        et dolore magna aliqua.
+                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat.
+                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                        pariatur.
+                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+                        id
+                        est laborum.</p>
+                </div>
             </div>
         </section>
 
         <section id="home-images">
             <div class="container">
+                <div class="text-center">
+                    <div class="row row-cols-1 row-cols-md-3 g-4">
+                        <div class="col">
+                            <div class="card h-100">
+                                <img src="assets/svg/shopping3.svg" class="card-img-top" alt="Shopping">
+                                <div class="card-body">
+                                    <h5 class="card-title">Card title</h5>
+                                    <p class="card-text">This is a wider card with supporting text below as a natural
+                                        lead-in to additional content.</p>
+                                    <button type="button" class="btn btn-lg btn-primary"> Plus d'info</button>
+                                </div>
+                            </div>
+                        </div>
 
-                <div class="row g-4 justify-content-center">
-                    <div class="col-sm-6 col-md-4 align-self-center">
-                        <img src="assets/svg/shopping2.svg" alt="un triangle aux trois côtés égaux">
-                    </div>
-                    <div class="col-sm-6 col-md-4 align-self-center">
-                        <img src="assets/svg/mail.svg" alt="un triangle aux trois côtés égaux">
-                    </div>
-                    <div class="col-sm-6 col-md-4 align-self-center">
-                        <img src="assets/svg/security.svg" alt="un triangle aux trois côtés égaux">
+                        <div class="col">
+                            <div class="card h-100">
+                                <img src="assets/svg/mail.svg" class="card-img-top" alt="mail">
+                                <div class="card-body">
+                                    <h5 class="card-title">Card title</h5>
+                                    <p class="card-text">This card has supporting text below as a natural lead-in to
+                                        additional content.</p>
+                                    <button type="button" class="btn btn-lg btn-primary"> Inscrivez-Vous</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col">
+                            <div class="card h-100">
+                                <img src="assets/svg/security.svg" class="card-img-top" alt="security">
+                                <div class="card-body">
+                                    <h5 class="card-title">Card title</h5>
+                                    <p class="card-text">This is a wider card with supporting text below as a natural
+                                        lead-in to additional content.</p>
+                                    <button type="button" class="btn btn-lg btn-primary"> Votre Sécuritez</button>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-
             </div>
         </section>
 

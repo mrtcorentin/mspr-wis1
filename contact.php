@@ -57,7 +57,7 @@ require_once 'template-parts/header.php'; ?>
                         </div>
                     </div>
 
-                    <div class="col-lg-7 order-lg-1">
+                    <div class=".col-md-6 .offset-md-3">
                         <div class="content-wrapper">
 
                             <h1>Contactez-nous pour plus d'infos</h1>

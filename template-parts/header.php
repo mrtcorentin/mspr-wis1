@@ -14,10 +14,10 @@
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item me-4">
-                        <a class="nav-link" href="#">Accueil</a>
+                        <a class="nav-link" href="index.php">Accueil</a>
                     </li>
                     <li class="nav-item me-4">
-                        <a class="nav-link" href="#">Notre concept</a>
+                        <a class="nav-link" href="notre-concept.php">Notre concept</a>
                     </li>
                     <li class="nav-item me-4">
                         <a class="nav-link" href="#">Sécurité</a>

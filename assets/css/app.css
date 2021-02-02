@@ -10621,6 +10621,8 @@ textarea.form-control-lg {
 
   .text-xxl-center {
     text-align: center !important;
+    padding-right: 300px;
+    padding-left: 300px;
   }
 }
 @media (min-width: 1200px) {
@@ -10779,14 +10781,12 @@ textarea.form-control-lg {
 }
 
 #home-images {
-  border: 2px solid red;
   padding: 100px 0;
 }
 #home-images img {
   display: block;
   width: 100%;
   height: auto;
-  border: 1px solid blue;
   max-width: 200px;
   margin: auto;
 }
@@ -10796,6 +10796,6 @@ textarea.form-control-lg {
   color: #fff;
 }
 
-.text-center {
+#home-presentation {
   padding-top: 120px;
 }
