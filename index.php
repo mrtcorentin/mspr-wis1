@@ -10,19 +10,37 @@ require_once 'template-parts/header.php'; ?>
     <main id="main">
         <section id="home-presentation">
             <div class="container">
-                <div class="first">
-                    <h1 class="text-xxl-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+                <div class="text-center">
+                    <h1 class="content-wrapper">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
 
-                    <img
-                            src="assets/svg/delivery.svg"
-                            alt="un triangle aux trois côtés égaux"
-                            height="1000rem"
-                            width="1000rem"/>
+                    <img class="rounded"
+                         src="assets/svg/housepackage.svg"
+                         alt="un triangle aux trois côtés égaux"
+                         height="650rem"
+                         width="650rem"/>
                 </div>
-                <div class="button">
-                    <button type="button" class="btn btn-primary">Primary</button>
-                    <button type="button" class="btn btn-secondary">Secondary</button>
+
+                <div class="text-center">
+                    <img class="rounded"
+                         src="assets/svg/googleplaystore.svg"
+                         alt="un triangle aux trois côtés égaux"
+                         height="150rem"
+                         width="150rem"/>
+
+
+                    <img class="rounded"
+                         src="assets/svg/applestore.svg"
+                         alt="un triangle aux trois côtés égaux"
+                         height="150rem"
+                         width="150rem"/>
                 </div>
+                <!--
+                                <div class="d-grid gap-2 d-md-block">
+                                    <button class="btn btn-primary" type="button">Button</button>
+                                    <button class="btn btn-primary" type="button">Button</button>
+                                </div>
+                -->
+
                 <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur.</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna aliqua.
