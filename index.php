@@ -10,8 +10,49 @@ require_once 'template-parts/header.php'; ?>
     <main id="main">
         <section id="home-presentation">
             <div class="container">
-                <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat, soluta?</h1>
+                <div class="first">
+                    <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat, soluta?</h1>
+
+                    <img
+                            src="assets/svg/delivery.svg"
+                            alt="un triangle aux trois côtés égaux"
+                            height="1000rem"
+                            width="1000rem"/>
+                </div>
+                <div class="button">
+                    <button type="button" class="btn btn-primary">Primary</button>
+                    <button type="button" class="btn btn-secondary">Secondary</button>
+                </div>
+                <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur.</h2>
+                <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua.
+                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                    pariatur.
+                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+                    est laborum.</h3>
+
+                <img
+                        src="assets/svg/shopping2.svg"
+                        alt="un triangle aux trois côtés égaux"
+                        height="250rem"
+                        width="250rem"/>
+
+                <img
+                        src="assets/svg/mail.svg"
+                        alt="un triangle aux trois côtés égaux"
+                        height="250rem"
+                        width="250rem"/>
+
+                <img
+                        src="assets/svg/security.svg"
+                        alt="un triangle aux trois côtés égaux"
+                        height="250rem"
+                        width="250rem"/>
             </div>
+
+
         </section>
     </main>
 
