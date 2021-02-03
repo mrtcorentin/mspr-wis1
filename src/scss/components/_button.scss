@@ -5,3 +5,14 @@
     color: #fff;
   }
 }
+
+
+
+.appli {
+  border-radius: 0.25rem !important;
+  padding: 0 10px;
+  &:hover {
+    transition: transform 0.2s ease;
+    transform: scale(1.03);
+  }
+}

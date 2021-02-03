@@ -10736,6 +10736,10 @@ textarea.form-control-lg {
   color: white;
   font-size: 1.5rem;
 }
+#header .navbar ul li a:hover {
+  transition: transform 0.2s ease;
+  transform: scale(1.1);
+}
 
 #footer {
   padding: 50px 0;
@@ -10773,6 +10777,7 @@ textarea.form-control-lg {
   padding-left: 10px;
   transition: 0.2s ease padding-left;
   font-weight: bold;
+  transform: scale(1.1);
 }
 #footer ul li img {
   height: 4rem;
@@ -10780,9 +10785,13 @@ textarea.form-control-lg {
   padding: 6px;
 }
 
+h1, .h1 {
+  font-weight: bold;
+}
+
 #home-images {
-  border: 2px solid red;
-  padding: 100px 0;
+  padding: 70px 0;
+  border: solid 2px blue;
 }
 #home-images .heading-wrapper {
   text-align: center;
@@ -10794,13 +10803,31 @@ textarea.form-control-lg {
   margin: auto;
   max-width: 800px;
 }
+#home-images h2, #home-images .h2 {
+  font-weight: bold;
+}
 #home-images img {
   display: block;
   width: 100%;
   height: auto;
-  border: 1px solid blue;
   max-width: 200px;
   margin: auto;
+  padding-top: 50px;
+}
+#home-images .card {
+  border-radius: 50px;
+  box-shadow: 1px 1px 1px darkgrey;
+}
+#home-images .card:hover {
+  transition: transform 0.2s ease;
+  transform: scale(1.03);
+}
+#home-images .appli {
+  padding: 0 5px;
+}
+#home-images .appli:hover {
+  transition: transform 0.2s ease;
+  transform: scale(1.03);
 }
 
 #jumbotron-1 h1, #jumbotron-1 .h1 {
@@ -10818,4 +10845,13 @@ textarea.form-control-lg {
 .btn.btn-black {
   background-color: #000;
   color: #fff;
+}
+
+.appli {
+  border-radius: 0.25rem !important;
+  padding: 0 10px;
+}
+.appli:hover {
+  transition: transform 0.2s ease;
+  transform: scale(1.03);
 }
