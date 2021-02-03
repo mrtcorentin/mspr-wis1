@@ -10848,6 +10848,10 @@ h1, .h1 {
   float: right;
 }
 
+#jumbotron-2 .img {
+  background-image: url("");
+}
+
 .btn.btn-black {
   background-color: #000;
   color: #fff;
