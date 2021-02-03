@@ -10621,8 +10621,6 @@ textarea.form-control-lg {
 
   .text-xxl-center {
     text-align: center !important;
-    padding-right: 300px;
-    padding-left: 300px;
   }
 }
 @media (min-width: 1200px) {
@@ -10781,7 +10779,18 @@ textarea.form-control-lg {
 }
 
 #home-images {
-  padding: 100px 0;
+  padding: 70px 0;
+  border: solid 2px blue;
+}
+#home-images .heading-wrapper {
+  text-align: center;
+  margin-bottom: 50px;
+}
+#home-images .heading-wrapper p {
+  display: block;
+  text-align: center;
+  margin: auto;
+  max-width: 800px;
 }
 #home-images img {
   display: block;
@@ -10794,8 +10803,4 @@ textarea.form-control-lg {
 .btn.btn-black {
   background-color: #000;
   color: #fff;
-}
-
-#home-presentation {
-  padding-top: 120px;
 }
