@@ -1,7 +1,18 @@
 #jumbotron-2 {
   .icones {
-    ul {
-      background-image: url("https://cdn.pixabay.com/photo/2016/07/12/09/31/package-1511683_1280.jpg");
+
+    text-align: center;
+    background-image: url("https://cdn.pixabay.com/photo/2016/07/12/09/31/package-1511683_1280.jpg");
+    border: solid 2px red;
+    padding: 0 500px;
+
+        img  {
+        height: 10rem;
+        width: auto;
+        margin: 50px 0;
+      }
+    li {
+      list-style: none;
     }
   }
 }

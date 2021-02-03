@@ -10,26 +10,37 @@ require_once 'template-parts/header.php'; ?>
 <main id="main">
 
 
-<!--
+
    <section id="jumbotron-2">
 <div class="icones">
 
+    <div class="row align-items-start">
+        <div class="col">
+
        <ul>
            <li>
-               <a href=""><img src="assets/svg/icon-facebook.svg"> </a>
+               <a href=""><img alt='facebook-icon' src="assets/svg/icon-facebook.svg"> </a>
            </li>
            <li>
-               <a href=""><img src="assets/svg/icon-insta.svg"></a>
+               <a href=""><img alt='insta-icon' src="assets/svg/icon-insta.svg"></a>
            </li>
-           <li>
-               <a href=""><img src="assets/svg/icon-linkedin.svg"></a>
-           </li>
-       </ul>
 
+       </ul>
+        </div>
+
+        <div class="col">
+            <ul>
+                <li>
+                <a href=""><img alt='linkedin-icon' src="assets/svg/icon-linkedin.svg"></a>
+                </li>
+                <li>
+                <a href=""><img alt='twitter-icon' src="assets/svg/icon-twitter.svg"></a>
+                </li>
+            </ul>
        </div>
 
    </section>
--->
+
 
     <section id="form">
 
