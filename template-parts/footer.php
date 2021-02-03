@@ -25,19 +25,19 @@
 
                 <ul>
                     <li class="footer-list">
-                        <a href="">Accueil</a>
+                        <a href="./index.php">Accueil</a>
                     </li>
                     <li class="footer-list">
-                        <a href="">Sécurité</a>
+                        <a href="./notre-concept.php">Notre concept</a>
+                    </li>
+                    <li class="footer-list">
+                        <a href="./security.php">Sécurité</a>
                     </li>
                     <li class="footer-list">
                         <a href="">Partenaires</a>
                     </li>
                     <li class="footer-list">
-                        <a href="">Blog</a>
-                    </li>
-                    <li class="footer-list">
-                        <a href="">Mon Profil</a>
+                        <a href="">S'inscrire</a>
                     </li>
                 </ul>
             </div>

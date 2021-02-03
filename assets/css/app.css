@@ -10744,6 +10744,7 @@ textarea.form-control-lg {
 }
 #footer .footer-title {
   font-size: 1.7rem;
+  font-weight: bold;
 }
 #footer .footer-list {
   margin-bottom: 12px;
@@ -10771,6 +10772,7 @@ textarea.form-control-lg {
   color: #00BD9D;
   padding-left: 10px;
   transition: 0.2s ease padding-left;
+  font-weight: bold;
 }
 #footer ul li img {
   height: 4rem;
