@@ -22,16 +22,16 @@ require_once 'template-parts/header.php'; ?>
 
                 <div class="text-center">
                     <a href="#"><img class="appli"
-                         src="assets/svg/googleplaystore.svg"
-                         alt="un triangle aux trois côtés égaux"
-                         height="150rem"
-                         width="150rem"/> </a>
+                                     src="assets/svg/googleplaystore.svg"
+                                     alt="un triangle aux trois côtés égaux"
+                                     height="150rem"
+                                     width="150rem"/> </a>
 
                     <a href="#"><img class="appli"
-                         src="assets/svg/applestore.svg"
-                         alt="un triangle aux trois côtés égaux"
-                         height="150rem"
-                         width="150rem"
+                                     src="assets/svg/applestore.svg"
+                                     alt="un triangle aux trois côtés égaux"
+                                     height="150rem"
+                                     width="150rem"
                         /> </a>
                 </div>
                 <!--
@@ -79,10 +79,10 @@ require_once 'template-parts/header.php'; ?>
                         <div class="card text-center h-100">
                             <img src="assets/svg/mail.svg" class="card-img-top" alt="mail">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">This card has supporting text below as a natural lead-in to
-                                    additional content.</p>
-                                <a type="button" class="btn btn-lg btn-primary" href="registration.php"> Inscrivez-Vous</a>
+                                <h5 class="card-title">Rejoignez nous !</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <a type="button" class="btn btn-lg btn-primary" href="registration.php">
+                                    S'inscrire</a>
                             </div>
                         </div>
                     </div>
@@ -91,10 +91,12 @@ require_once 'template-parts/header.php'; ?>
                         <div class="card text-center h-100">
                             <img src="assets/svg/security.svg" class="card-img-top" alt="security">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content.</p>
-                                <a type="button" class="btn btn-lg btn-primary" href="security.php"> Votre Sécurité</a>
+                                <h5 class="card-title">Votre sécurité, notre priorité :</h5>
+                                <p class="card-text">
+                                    Click & Share met tout en œuvre pour assurer la sécurité de ses clients et la
+                                    fiabilité des livraisons.
+                                </p>
+                                <a type="button" class="btn btn-lg btn-primary" href="security.php"> En savoir plus</a>
                             </div>
                         </div>
                     </div>
