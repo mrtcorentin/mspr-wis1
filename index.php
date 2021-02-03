@@ -103,12 +103,12 @@ require_once 'template-parts/header.php'; ?>
             </div>
         </section>
 
-        <!--
+
         <div class="button-2">
             <button type="button" class="btn btn-primary">Primary</button>
             <button type="button" class="btn btn-black">Secondary</button>
         </div>
-        -->
+
     </main>
 
 <?php require_once 'template-parts/footer.php'; ?>
