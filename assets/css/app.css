@@ -10779,8 +10779,8 @@ textarea.form-control-lg {
 }
 
 #home-images {
-  border: 2px solid red;
-  padding: 100px 0;
+  padding: 70px 0;
+  border: solid 2px blue;
 }
 #home-images .heading-wrapper {
   text-align: center;
@@ -10796,14 +10796,16 @@ textarea.form-control-lg {
   display: block;
   width: 100%;
   height: auto;
-  border: 1px solid blue;
   max-width: 200px;
   margin: auto;
 }
 
-#jumbotron-1 h1, #jumbotron-1 .h1 {
-  padding-top: 100px;
+#jumbotron-1 .container {
+  padding-top: 200px;
   padding-bottom: 100px;
+}
+#jumbotron-1 h1, #jumbotron-1 .h1 {
+  padding-bottom: 150px;
 }
 #jumbotron-1 p {
   text-align: justify;
@@ -10811,6 +10813,9 @@ textarea.form-control-lg {
 #jumbotron-1 h3, #jumbotron-1 .h3 {
   padding-top: 25px;
   padding-bottom: 25px;
+}
+#jumbotron-1 .button-2 {
+  float: right;
 }
 
 .btn.btn-black {
