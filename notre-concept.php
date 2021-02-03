@@ -38,8 +38,8 @@ require_once 'template-parts/header.php'; ?>
                         necessitatibus repudiandae sed voluptas! Lorem ipsum dolor sit amet, consectetur adipisicing
                         elit. Deserunt dolorem iure placeat repellendus, sint soluta?</p>
 
-                    <div class="button-2">
-                        <button type="button" class="btn btn-black pt-4">Secondary</button>
+                    <div class="button-2  pt-5 pb-4">
+                        <button type="button" class="btn btn-black">Secondary</button>
                     </div>
                 </div>
             </div>
@@ -65,8 +65,8 @@ require_once 'template-parts/header.php'; ?>
                             necessitatibus repudiandae sed voluptas! Lorem ipsum dolor sit amet, consectetur adipisicing
                             elit. Deserunt dolorem iure placeat repellendus, sint soluta?</p>
 
-                        <div class="button-2">
-                            <button type="button" class="btn btn-black pt-4">Secondary</button>
+                        <div class="button-2  pt-5 pb-4">
+                            <button type="button" class="btn btn-black">Secondary</button>
                         </div>
                     </div>
 
@@ -107,8 +107,8 @@ require_once 'template-parts/header.php'; ?>
                                 necessitatibus repudiandae sed voluptas! Lorem ipsum dolor sit amet, consectetur adipisicing
                                 elit. Deserunt dolorem iure placeat repellendus, sint soluta?</p>
 
-                            <div class="button-2">
-                                <button type="button" class="btn btn-black pt-4">Secondary</button>
+                            <div class="button-2  pt-5 pb-4">
+                                <button type="button" class="btn btn-black ">Secondary</button>
                             </div>
                         </div>
                     </div>
