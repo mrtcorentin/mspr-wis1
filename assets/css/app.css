@@ -10621,8 +10621,6 @@ textarea.form-control-lg {
 
   .text-xxl-center {
     text-align: center !important;
-    padding-right: 300px;
-    padding-left: 300px;
   }
 }
 @media (min-width: 1200px) {
@@ -10746,6 +10744,7 @@ textarea.form-control-lg {
 }
 #footer .footer-title {
   font-size: 1.7rem;
+  font-weight: bold;
 }
 #footer .footer-list {
   margin-bottom: 12px;
@@ -10773,6 +10772,7 @@ textarea.form-control-lg {
   color: #00BD9D;
   padding-left: 10px;
   transition: 0.2s ease padding-left;
+  font-weight: bold;
 }
 #footer ul li img {
   height: 4rem;
@@ -10781,12 +10781,14 @@ textarea.form-control-lg {
 }
 
 #home-images {
+  border: 2px solid red;
   padding: 100px 0;
 }
 #home-images img {
   display: block;
   width: 100%;
   height: auto;
+  border: 1px solid blue;
   max-width: 200px;
   margin: auto;
 }
@@ -10794,8 +10796,4 @@ textarea.form-control-lg {
 .btn.btn-black {
   background-color: #000;
   color: #fff;
-}
-
-#home-presentation {
-  padding-top: 120px;
 }
