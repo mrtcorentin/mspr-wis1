@@ -20,7 +20,7 @@
                         <a class="nav-link" href="notre-concept.php">Notre concept</a>
                     </li>
                     <li class="nav-item me-4">
-                        <a class="nav-link" href="#">Sécurité</a>
+                        <a class="nav-link" href="security.php">Sécurité</a>
                     </li>
                     <li class="nav-item me-4">
                         <a class="nav-link" href="#">Partenaires</a>

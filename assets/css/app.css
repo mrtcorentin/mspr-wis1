@@ -10782,6 +10782,16 @@ textarea.form-control-lg {
   border: 2px solid red;
   padding: 100px 0;
 }
+#home-images .heading-wrapper {
+  text-align: center;
+  margin-bottom: 50px;
+}
+#home-images .heading-wrapper p {
+  display: block;
+  text-align: center;
+  margin: auto;
+  max-width: 800px;
+}
 #home-images img {
   display: block;
   width: 100%;
