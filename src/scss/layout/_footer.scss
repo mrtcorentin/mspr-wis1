@@ -5,6 +5,7 @@
 
   .footer-title {
     font-size: 1.7rem;
+    font-weight: bold;
   }
 
   .footer-list {
@@ -35,6 +36,8 @@
           color: #00BD9D;
           padding-left: 10px;
           transition: .2s ease padding-left;
+          font-weight: bold;
+          transform: scale(1.1);
 
         }
       }
