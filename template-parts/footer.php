@@ -25,7 +25,7 @@
 
                 <ul>
                     <li class="footer-list">
-                        <a href="../home.php">Accueil</a>
+                        <a href="../index.php">Accueil</a>
                     </li>
                     <li class="footer-list">
                         <a href="./notre-concept.php">Notre concept</a>
