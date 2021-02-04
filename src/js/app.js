@@ -1,5 +1,6 @@
 // Import just what we need
+import './bootstrap';
 
-import './scrollreaveal';
+import './scrollreveal';
 
 import './404';
