@@ -25,7 +25,7 @@
 
                 <ul>
                     <li class="footer-list">
-                        <a href="../home.php">Accueil</a>
+                        <a href="../index.php">Accueil</a>
                     </li>
                     <li class="footer-list">
                         <a href="./notre-concept.php">Notre concept</a>
@@ -34,10 +34,10 @@
                         <a href="./security.php">Sécurité</a>
                     </li>
                     <li class="footer-list">
-                        <a href="">Partenaires</a>
+                        <a href="./partenaires.php">Partenaires</a>
                     </li>
                     <li class="footer-list">
-                        <a href="">S'inscrire</a>
+                        <a href="./register.php">S'inscrire</a>
                     </li>
                 </ul>
             </div>
