@@ -11,15 +11,19 @@ require_once 'template-parts/header.php'; ?>
 
         <section id="main-section">
             <div class="container">
+            <div class="img-wrapper">
                 <img src="assets/svg/security.svg" alt="security-icon">
+            </div>
             </div>
 
             <div class="container">
+            <div class="text-wrapper">
                 <h1>Lorem ipsum dolor sit.</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa ea magnam placeat quia soluta? A
                     aliquam autem cum eligendi ipsam nisi perspiciatis similique voluptates. At corporis cupiditate
                     dignissimos impedit maxime nesciunt tempora veritatis voluptates. Aliquam architecto delectus dicta
                     dolorum eaque esse excepturi in libero, magni mollitia nisi quidem sit voluptatibus?</p>
+            </div>
             </div>
         </section>
 

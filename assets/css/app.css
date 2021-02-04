@@ -10876,7 +10876,6 @@ textarea.form-control-lg {
   padding-bottom: 200px;
 }
 
-<<<<<<< HEAD
 #main {
   font-family: "Ubuntu";
 }
@@ -11218,13 +11217,6 @@ textarea.form-control-lg {
     opacity: 0.2;
   }
 }
-=======
-#main div {
-  text-align: center;
-  border: 2px solid red;
-}
-
->>>>>>> main
 .btn.btn-black {
   background-color: #000;
   color: #fff;
