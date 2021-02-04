@@ -4,7 +4,7 @@
     text-align: center;
     background-image: url("https://cdn.pixabay.com/photo/2016/07/12/09/31/package-1511683_1280.jpg");
     border: solid 2px red;
-    padding: 0 500px;
+    padding: 0 30%;
 
         img  {
         height: 10rem;
@@ -19,8 +19,7 @@
 
 #form {
     form{
-        padding-left: 300px;
-        padding-right: 300px;
+        padding: 0 30%;
         .field{
             padding-bottom: 15px;
         }

@@ -34,10 +34,10 @@
                         <a href="./security.php">Sécurité</a>
                     </li>
                     <li class="footer-list">
-                        <a href="">Partenaires</a>
+                        <a href="./partenaires.php">Partenaires</a>
                     </li>
                     <li class="footer-list">
-                        <a href="">S'inscrire</a>
+                        <a href="./register.php">S'inscrire</a>
                     </li>
                 </ul>
             </div>
