@@ -23,10 +23,17 @@
                         <a class="nav-link" href="./security.php">Sécurité</a>
                     </li>
                     <li class="nav-item me-4">
+<<<<<<< HEAD
                         <a class="nav-link" href="partners.php">Partenaires</a>
                     </li>
                     <li class="nav-item me-4">
                         <a class="nav-link" href="register.php">S'inscrire</a>
+=======
+                        <a class="nav-link" href="./partenaires.php">Partenaires</a>
+                    </li>
+                    <li class="nav-item me-4">
+                        <a class="nav-link" href="./register.php">S'inscrire</a>
+>>>>>>> main
                     </li>
                 </ul>
             </div>

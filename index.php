@@ -18,17 +18,17 @@ require_once 'template-parts/header.php'; ?>
                          src="assets/svg/housepackage.svg"
                          alt="un triangle aux trois côtés égaux"
                          height="500rem"
-                         width="500rem"/>
+                         width=auto/>
                 </div>
 
                 <div class="text-center">
-                    <a href="#"><img class="appli"
+                    <a href="https://play.google.com/store"><img class="appli"
                                      src="assets/svg/googleplaystore.svg"
                                      alt="un triangle aux trois côtés égaux"
                                      height="150rem"
                                      width="150rem"/> </a>
 
-                    <a href="#"><img class="appli"
+                    <a href="https://www.apple.com/app-store/"><img class="appli"
                                      src="assets/svg/applestore.svg"
                                      alt="un triangle aux trois côtés égaux"
                                      height="150rem"
