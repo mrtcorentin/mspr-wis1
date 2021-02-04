@@ -1,7 +1,9 @@
-var pageX = $(document).width();
-var pageY = $(document).height();
-var mouseY=0;
-var mouseX=0;
+window.$ = window.jQuery = require('jquery');
+
+let pageX = $(document).width();
+let pageY = $(document).height();
+let mouseY=0;
+let mouseX=0;
 
 $(document).mousemove(function( event ) {
 
@@ -12,7 +14,5 @@ $(document).mousemove(function( event ) {
     xAxis = -mouseX * 100 - 100;
 
     $('.box__ghost-eyes').css({ 'transform': 'translate('+ xAxis +'%,-'+ yAxis +'%)' });
-
-
 
 });
