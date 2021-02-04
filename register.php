@@ -94,7 +94,7 @@ require_once 'template-parts/header.php'; ?>
                 <div class="field form-check">
                     <input class="form-check-input" type="checkbox" value="" id="flexCheckIndeterminate">
                     <label class="form-check-label" for="flexCheckIndeterminate">
-                        J'ai lu et j'accepte les <a href="#">Conditions Générales d'Utilisation</a>
+                        CGU
                     </label>
                 </div>
 
