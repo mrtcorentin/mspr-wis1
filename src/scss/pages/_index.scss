@@ -5,13 +5,19 @@
   }
 }
 
+<<<<<<< HEAD
   #home-images {
     padding: 70px 0;
     border:  solid 2px blue;
+=======
+#home-images {
+  padding: 100px 0 200px;
+  border: solid 2px blue;
+>>>>>>> main
 
-    .heading-wrapper {
-      text-align: center;
-      margin-bottom: 50px;
+  .heading-wrapper {
+    text-align: center;
+    margin-bottom: 50px;
 
       p {
         display: block;
@@ -37,20 +43,26 @@
     .card {
       border-radius: 50px;
       box-shadow: 1px 1px 1px darkgrey;
+
       &:hover {
         transition: transform 0.2s ease;
         transform: scale(1.03);
+<<<<<<< HEAD
 
+=======
+        padding: 0 0 170px;
+>>>>>>> main
       }
     }
 
 
     .appli {
       padding: 0 5px;
+
       &:hover {
         transition: transform 0.2s ease;
         transform: scale(1.03);
       }
     }
-
   }
+}
