@@ -12,7 +12,7 @@ require_once 'template-parts/header.php'; ?>
         <section id="home-presentation">
             <div class="container">
                 <div class="text-center">
-                    <h1 class="my-3 my-sm-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+                    <h1 class="my-3 my-sm-5"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
 
                     <img class="rounded"
                          src="assets/svg/housepackage.svg"
@@ -32,8 +32,7 @@ require_once 'template-parts/header.php'; ?>
                                      src="assets/svg/applestore.svg"
                                      alt="un triangle aux trois côtés égaux"
                                      height="150rem"
-                                     width="150rem"
-                        /> </a>
+                                     width="150rem"/> </a>
                 </div>
                 <!--
                                 <div class="d-grid gap-2 d-md-block">

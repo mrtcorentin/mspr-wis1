@@ -10875,6 +10875,14 @@ h1, .h1 {
   padding-bottom: 200px;
 }
 
+#main .card {
+  margin-left: 27px;
+  border-radius: 20px;
+}
+#main .card-img-top {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
 .btn.btn-black {
   background-color: #000;
   color: #fff;

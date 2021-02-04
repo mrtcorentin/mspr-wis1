@@ -14,7 +14,7 @@
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item me-4">
-                        <a class="nav-link" href="../index.php">Accueil</a>
+                        <a class="nav-link" href="./index.php">Accueil</a>
                     </li>
                     <li class="nav-item me-4">
                         <a class="nav-link" href="./notre-concept.php">Notre concept</a>
@@ -23,10 +23,10 @@
                         <a class="nav-link" href="./security.php">Sécurité</a>
                     </li>
                     <li class="nav-item me-4">
-                        <a class="nav-link" href="#">Partenaires</a>
+                        <a class="nav-link" href="partners.php">Partenaires</a>
                     </li>
                     <li class="nav-item me-4">
-                        <a class="nav-link" href="#">S'inscrire</a>
+                        <a class="nav-link" href="register.php">S'inscrire</a>
                     </li>
                 </ul>
             </div>
