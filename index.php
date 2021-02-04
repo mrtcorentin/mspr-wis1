@@ -12,11 +12,11 @@ require_once 'template-parts/header.php'; ?>
         <section id="home-presentation">
             <div class="container">
                 <div class="text-center">
-                    <h1 class="my-3 my-sm-5"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+                    <h1 class="text h1-home">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
 
                     <img class="rounded"
                          src="assets/svg/housepackage.svg"
-                         alt="un triangle aux trois côtés égaux"
+                         alt="home-icon"
                          height="500rem"
                          width=auto/>
                 </div>
@@ -48,8 +48,8 @@ require_once 'template-parts/header.php'; ?>
             <div class="container">
 
                 <div class="heading-wrapper">
-                    <h2>Lorem ipsum dolor sit amet.</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                    <h2 class="text h2-home">Lorem ipsum dolor sit amet.</h2>
+                    <p class="text p-home">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
                         exercitation ullamco laboris nisi ut aliquip ex ea commodo
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
@@ -81,7 +81,7 @@ require_once 'template-parts/header.php'; ?>
                             <div class="card-body">
                                 <h5 class="card-title">Rejoignez nous !</h5>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                <a type="button" class="btn btn-lg btn-primary" href="registration.php">
+                                <a type="button" class="btn btn-lg btn-primary" href="register.php">
                                     S'inscrire</a>
                             </div>
                         </div>
