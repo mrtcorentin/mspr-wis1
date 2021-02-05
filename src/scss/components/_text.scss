@@ -1,0 +1,24 @@
+.text {
+  &.h1-home {
+    font-weight: 900!important;
+    text-transform: uppercase!important;
+    color: #114d4d;
+    word-break: break-word!important;
+    font-family: Poppins,sans-serif;
+    line-height: 1!important;
+    padding: 150px 0;
+  }
+
+  &.h2-home{
+    color: #114d4d;
+    word-break: break-word!important;
+    font-family: Poppins,sans-serif;
+    text-transform: uppercase!important;
+    line-height: 1!important;
+    padding: 70px 0;
+  }
+
+  &.p-home {
+    color: #49ada1;
+  }
+}

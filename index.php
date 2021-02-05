@@ -12,11 +12,19 @@ require_once 'template-parts/header.php'; ?>
     <section id="home-presentation">
         <div class="container">
             <div class="text-center">
+<<<<<<< HEAD
                 <h1 class="my-3 my-sm-5"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
 
                 <img class="rounded"
                      src="assets/svg/housepackage.svg"
                      alt="un triangle aux trois côtés égaux"
+=======
+                <h1 class="text h1-home"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+
+                <img class="rounded"
+                     src="assets/svg/housepackage.svg"
+                     alt="home-icon"
+>>>>>>> main
                      height="500rem"
                      width=auto/>
             </div>
@@ -42,8 +50,13 @@ require_once 'template-parts/header.php'; ?>
         <div class="container">
 
             <div class="heading-wrapper">
+<<<<<<< HEAD
                 <h2>Lorem ipsum dolor sit amet.</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+=======
+                <h2 class="text h2-home">Lorem ipsum dolor sit amet.</h2>
+                <p class="text p-home">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+>>>>>>> main
                     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
                     exercitation ullamco laboris nisi ut aliquip ex ea commodo
                     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
@@ -53,7 +66,11 @@ require_once 'template-parts/header.php'; ?>
                     id est laborum.</p>
             </div>
 
+<<<<<<< HEAD
             <div class="row g-4 justify-content-center">
+=======
+            <div class="row g-4 justify-content-center animate__animated animate__fadeInUp animate__delay-1.5s">
+>>>>>>> main
 
                 <div class="col-lg-4">
                     <div class="card text-center h-100">
@@ -63,7 +80,11 @@ require_once 'template-parts/header.php'; ?>
                             <p class="card-text">This is a wider card with supporting text below as a natural
                                 lead-in to additional content.</p>
                             <a type="button" class="btn btn-lg btn-primary" href="notre-concept.php"> Plus
+<<<<<<< HEAD
                                 d'info
+=======
+                                d'infos
+>>>>>>> main
                             </a>
                         </div>
                     </div>
