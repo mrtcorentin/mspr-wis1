@@ -89,7 +89,6 @@ require_once 'template-parts/db.php';
 
             </div>
         </section>
-
     </main>
 
 <?php require_once 'template-parts/footer.php'; ?>
