@@ -11,9 +11,7 @@ require_once 'template-parts/header.php'; ?>
 
         <section id="main-section">
             <div class="container">
-                <div class="img-wrapper">
-                    <img src="assets/svg/security.svg" alt="security-icon">
-                </div>
+
             </div>
 
             <div class="container">
