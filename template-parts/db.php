@@ -19,13 +19,21 @@ $partners = [
     ['name' => 'Mango',             'picture' => 'mango.png',           'categories' => ['vetements-homme', 'vetements-femme']],
     ['name' => 'Naf-naf',           'picture' => 'naf-naf.jpg',         'categories' => ['vetements-femme']],
     ['name' => 'Olly-Gan',          'picture' => 'olly-gan.jpg',        'categories' => ['vetements-homme']],
+<<<<<<< HEAD
     ['name' => 'Pharmacie',         'picture' => 'pharmacie.jpg',       'categories' => ['autres']],
+=======
+    ['name' => 'Pharmacie',         'picture' => 'pharmacie.jpg',       'categories' => ['soins']],
+>>>>>>> main
     ['name' => 'Pimkie',            'picture' => 'pimkie.jpg',          'categories' => ['vetements-femme']],
     ['name' => 'Quater-Back',       'picture' => 'quater-back.jpg',     'categories' => ['vetements-homme']],
     ['name' => 'Récré',             'picture' => 'recre',               'categories' => ['autres']],
     ['name' => 'Spar',              'picture' => 'spar.jpg',            'categories' => ['alimentaire']],
     ['name' => 'SpringField',       'picture' => 'springfield.jpg',     'categories' => ['vetements-homme', 'vetements-femme']],
+<<<<<<< HEAD
     ['name' => 'StreetShop',        'picture' => 'streetshop-cbd.jpg',  'categories' => ['autres']],
+=======
+    ['name' => 'StreetShop',        'picture' => 'streetshop-cbd.jpg',  'categories' => ['soins']],
+>>>>>>> main
     ['name' => 'Undiz',             'picture' => 'undiz.png',           'categories' => ['vetements-homme', 'vetements-femme']],
     ['name' => 'Valège',            'picture' => 'valege.jpg',          'categories' => ['vetements-femme']],
 
